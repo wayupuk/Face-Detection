@@ -11,3 +11,6 @@ workspace to make a model for face detection from Roboflow.
 
 https://github.com/wayupuk/Face-Detection/assets/138818126/856299e1-6bde-4705-9a23-296d5fde4306
 
+# Symposium 2023 3rd
+
+[The-3rd-PCSHS-Science-Symposium-2023.pdf](https://github.com/wayupuk/Face-Detection/files/12050242/The-3rd-PCSHS-Science-Symposium-2023.pdf)
