@@ -4,7 +4,7 @@ workspace to make a model for face detection from Roboflow.
 # LINK FOR MY MODEL
 ## https://universe.roboflow.com/wayupuk-sommuang/face-detection-vswnd
 I'm going to upgrade my model soon bou ot to long bc i'm at the limit
-
+the code is for face detection and counting in detection way
 
 
 
